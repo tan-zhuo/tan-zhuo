@@ -14,6 +14,8 @@ I specialize in cloud-native technologies, distributed systems, and big data. I 
 
 - **Big Data**: I find joy in making sense of large and complex datasets. I have experience in various big data technologies and frameworks, and I'm always excited to explore more.
 
+- **Artificial Intelligence**: I am passionate about the potential of AI to revolutionize industries and improve our lives. I am always exploring the latest developments in this field and seeking to apply them in innovative ways.
+
 ## 📚 Continuous Learning
 
 I'm a lifelong learner who's always seeking new knowledge and skills. I believe that in the fast-paced world of technology, continuous learning is the key to staying relevant and innovative.
