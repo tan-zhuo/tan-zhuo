@@ -4,4 +4,4 @@
 
 <br>
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="750" />
+<img src="./profile-3d-contrib/profile-gitblock.svg" width="750" />
